@@ -2,7 +2,6 @@
 
 **#AI4Elections Hackathon 2026 | Track: Electoral Cybersecurity and Resilience**
 Team: Quantum Pioneers 
-
 Members: Omotade Hezekiah Adeniyi, Bolajoko Aliyat Morenikeji, Osigbemhe Nathan Oluwaseyi
 
 > **Synthetic data only.** This prototype is not connected to any electoral system, never uses real election data, and never declares or validates election results. Every mismatch is referred to human review.
